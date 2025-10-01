@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globocom/auror-core.svg?branch=master)](https://travis-ci.com/globocom/auror-core)
+[![Build Status](https://app.travis-ci.com/globocom/auror-core.svg?branch=master)](https://app.travis-ci.com/globocom/auror-core)
 
 # Auror Core
 > Simple Flow creation for Azkaban
